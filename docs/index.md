@@ -2,8 +2,9 @@
 
 <br>
 
-## [Club Penguin Legacy](https://cplegacy.com/) - [cplegacy.com](https://cplegacy.com/) (HTML5, AS2, Custom)
-##
+<h2> Club Penguin Legacy - <a id="CPL">cplegacy.com</a> (HTML5, AS2, Custom)</h2>
+<h2></h2>
+
 ## [Club Penguin Forever](https://cpforever.org/) - [cpforever.org](https://cpforever.org/) (HTML5, AS2/AS3, Custom)
 ##
 ## [CPA Battleground](https://cpabattleground.com/) - [cpabattleground.com](https://cpabattleground.com/) (HTML5, AS2, Custom)
@@ -20,4 +21,10 @@
 **Some servers require their own desktop apps to run. We are working on compatibility with those servers.**
 
 
-<script>console.log("test")</script>
+<script>
+  
+document.getElementById("CPL")?.addEventListener("click", (() => {
+    window.location.href = "https://cplegacy.com";
+}));
+
+</script>
