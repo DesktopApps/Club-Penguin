@@ -1,24 +1,24 @@
 {
-  "name": "ondesktop",
+  "name": "ondesktop-cp",
   "version": "0.0.1",
-  "description": "Web apps, on your desktop.",
+  "description": "Club Penguin, on your desktop.",
   "main": "dist/main.js",
   "scripts": {
     "prestart": "npx tsc && cp -r ./assets/ ./dist/assets/",
-    "start": "npx nativefier --name \"OnDesktop\" \"https://ondesktop.cyou\"",
+    "start": "npx nativefier --name \"ClubPenguin\" \"https://ondesktop.cyou/Club-Penguin\"",
     "poststart": "rm -rf dist",
     "cleanup": "rm -rf ./dist/ && rm -rf ./xMeerkat-darwin-arm64/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DesktopApps/OnDesktop"
+    "url": "git+https://github.com/DesktopApps/Club-Penguin"
   },
   "author": "xMeerkat",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/DesktopApps/OnDesktop/issues"
+    "url": "https://github.com/DesktopApps/Club-Penguin/issues"
   },
-  "homepage": "https://github.com/DesktopApps/OnDesktop#readme",
+  "homepage": "https://github.com/DesktopApps/Club-Penguin#readme",
   "dependencies": {
     "electron": "^20.0.3",
     "make-random": "^3.0.2",
