@@ -18,3 +18,6 @@
 
 ## Why are not all servers shown? 
 **Some servers require their own desktop apps to run. We are working on compatibility with those servers.**
+
+
+<script>console.log("test")</script>
