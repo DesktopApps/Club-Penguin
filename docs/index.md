@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Server Selector
 
-You can use the [editor on GitHub](https://github.com/DesktopApps/Club-Penguin/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [Club Penguin Legacy](https://cplegacy.com/) - [cplegacy.com](https://cplegacy.com/) (HTML5, AS2, Custom)
+## [Club Penguin Forever](https://cpforever.org/) - [cpforever.org](https://cpforever.org/) (HTML5, AS2/AS3, Custom)
+## [CPA Battleground](https://cpabattleground.com/) - [cpabattleground.com](https://cpabattleground.com/) (HTML5, AS2, Custom)
+## [My Club Penguin](https://myclubpenguin.com/) - [myclubpenguin.com](https://myclubpenguin.com/) (HTML5, AS2/AS3, Custom, Modern)
+## [Club Penguin Chapter 2](https://cpchapter2.com/) - [cpchapter2.com](https://cpchapter2.com/) (HTML5, AS2, Custom)
 
-### Markdown
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DesktopApps/Club-Penguin/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Why are not all servers shown? 
+**Some servers require their own desktop apps to run. We are working on compatibility with those servers.**
